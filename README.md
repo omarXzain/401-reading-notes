@@ -10,7 +10,7 @@
 |       Lap         | Read-Num                                                                              |  
 |  --------------   | -----------------------------------------------------------------------------------   | 
 |    Class 1        | [Suffering & pain 😢](https://omarxzain.github.io/401-reading-notes/read1)| 
-|    Class 2        | [Beginners Guide to Big O](https://omarxzain.github.io/401-reading-notes/read2)| 
+|    Class 2        | [TDD with Python](https://omarxzain.github.io/401-reading-notes/read2)| 
 |    Class 3        | [Pytest](https://omarxzain.github.io/401-reading-notes/read3)| 
 |    Class 4        | [Files Reading and Writing](https://omarxzain.github.io/401-reading-notes/read4)| 
 |    Class 5        | [Classes and objects](https://omarxzain.github.io/401-reading-notes/read5)| 
