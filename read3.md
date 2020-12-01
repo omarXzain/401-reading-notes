@@ -15,9 +15,9 @@
 
 ## File Paths
 - When you access a file on an operating system, a file path is required. The file path is a string that represents the location of a file. 
-1) Folder Path: the file folder location on the file system where subsequent folders are separated by a forward slash,Unix ,Windows
-2) File Name: the actual name of the file
-3) Extension: the end of the file path pre-pended with a period (.) used to indicate the file type
+- 1) Folder Path: the file folder location on the file system where subsequent folders are separated by a forward slash,Unix ,Windows
+- 2) File Name: the actual name of the file
+- 3) Extension: the end of the file path pre-pended with a period (.) used to indicate the file type
 
 - example:
 - Tree of Files
@@ -68,9 +68,9 @@ In Python, using the else statement, you can instruct a program to execute a cer
 
 Usefull Tips:
 -------------
-1) raise allows you to throw an exception at any time.
-2) assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
-3) In the try clause, all statements are executed until an exception is encountered.
+- 1) raise allows you to throw an exception at any time.
+- 2) assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
+- 3) In the try clause, all statements are executed until an exception is encountered.
 
 ________________________________________________________
 
