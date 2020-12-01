@@ -66,7 +66,7 @@ Instead of waiting for a program to crash midway, you can also start by making a
 ## The else Clause
 In Python, using the else statement, you can instruct a program to execute a certain block of code only in the absence of exceptions.
 
-Usefull Tips:
+Usefull Content:
 -------------
 - 1) raise allows you to throw an exception at any time.
 - 2) assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
