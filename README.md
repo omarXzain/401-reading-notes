@@ -11,14 +11,13 @@
 |  --------------   | -----------------------------------------------------------------------------------   | 
 |    Class 1        | [Suffering & pain 😢](https://omarxzain.github.io/401-reading-notes/read1)| 
 |    Class 2        | [TDD with Python](https://omarxzain.github.io/401-reading-notes/read2)| 
-|    Class 3        | [Pytest](https://omarxzain.github.io/401-reading-notes/read3)| 
-|    Class 4        | [Files Reading and Writing](https://omarxzain.github.io/401-reading-notes/read4)| 
-|    Class 5        | [Classes and objects](https://omarxzain.github.io/401-reading-notes/read5)| 
-|    Class 6        | [Linked Lists](https://omarxzain.github.io/401-reading-notes/read6)| 
-|    Class 7        | [Random Module](https://omarxzain.github.io/401-reading-notes/read7)| 
-|    Class 8        | [Python Scope](https://omarxzain.github.io/401-reading-notes/read8)| 
-|    Class 9        | [List Comprehensions in Python](https://omarxzain.github.io/401-reading-notes/read9)|
-|    Class 10       | [Dunder Methods](https://omarxzain.github.io/401-reading-notes/read10)| 
+|    Class 3        | [Reading and Writing](https://omarxzain.github.io/401-reading-notes/read3)| 
+|    Class 4        | [Classes and Objects](https://omarxzain.github.io/401-reading-notes/read4)| 
+|    Class 5        | [Linked Lists](https://omarxzain.github.io/401-reading-notes/read5)| 
+|    Class 7        | [Random Module](https://omarxzain.github.io/401-reading-notes/read6)| 
+|    Class 8        | [Python Scope](https://omarxzain.github.io/401-reading-notes/read7)| 
+|    Class 9        | [List Comprehensions in Python](https://omarxzain.github.io/401-reading-notes/read8)|
+|    Class 10       | [Dunder Methods](https://omarxzain.github.io/401-reading-notes/read9)|
 |    Class 11       | [Stacks and Queues]()| 
 |    Class 12       | [Curses]()| 
 |    Class 13       | [Snake Game]()| 
