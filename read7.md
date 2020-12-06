@@ -35,7 +35,9 @@ Local scope: The names that you define in this scope are only available or visib
 2) Make good use of global and local names across your programs to improve code maintainability
 3) Use a coherent strategy to access, modify, or update names across all your Python code
 
+-----------------------------------------------------------------
 
 
 
+[Table Of Content](https://github.com/omarXzain/401-reading-notes)
 
