@@ -61,7 +61,11 @@ def double(x):
 >>> print double(10)
 20
 ```
+## Debugging With PySnooper
+- Debugging is a painful but necessary practice in software development. The tools that are available in Python range from the built-in debugger, to tools integrated with your coding environment, to the trusty print function. In this episode Ram Rachum describes his work on PySnooper and how it can be used to speed up your problem solving in complex or legacy applications.
  
+---------------------------------------------------------
+
  Thanks For Reading 
  
  ---------------------------------------------------------
