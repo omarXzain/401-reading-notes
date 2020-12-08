@@ -48,6 +48,13 @@ Context manager support (with statement)
 1) Flipping a heads
 2) Flipping a tails
 
+
+## Three Sigma Rule
+- The Three Sigma rule, also known as the empirical rule or 68-95-99.7 rule, is an expression of how many of our observations fall within a certain distance of the mean. Remember that the standard deviation (a.k.a. “sigma”) is the average distance an observation in the data set is from the mean
+
+
+<img src="https://slideplayer.com/slide/5990783/20/images/8/Three+Sigma+Rule+68%25+of+the+data+95%25+of+the+data+99.7%25+of+the+data.jpg" width="600px" height="300px">
+
 ## Z-score
 - The Z-score is a simple calculation that answers the question, “Given a data point, how many standard deviations is it away from the mean?
 - The equation below is the Z-score equation.
