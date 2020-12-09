@@ -18,35 +18,35 @@
 |    Class 7        | [Python Scope](https://omarxzain.github.io/401-reading-notes/read7)| 
 |    Class 8        | [List Comprehensions in Python](https://omarxzain.github.io/401-reading-notes/read8)|
 |    Class 9       | [Dunder Methods](https://omarxzain.github.io/401-reading-notes/read9)|
-|    Class 10       | [Stacks and Queues]()| 
-|    Class 11       | [Curses]()| 
-|    Class 12       | [Snake Game]()| 
-|    Class 13       | [Data Analysis]()| 
-|    Class 14       | [Panda]()| 
-|    Class 15       | [Linear Regression in Python with Scikit-Learn]()| 
-|    Class 16       | [Matplotlib tutorial]()| 
-|    Class 17       | [Trees]()| 
-|    Class 18      | [Machine Learning]()| 
-|    Class 19       | [Web Scraping]()| 
-|    Class 20       | [Cryptography]()| 
-|    Class 21       | [Regular Expression]()| 
-|    Class 22       | [Intro to Django]()| 
-|    Class 23       | [Django Models]()|
-|    Class 24       | [Django CRUD and Forms]()| 
-|    Class 25       | [Django Custom User]()| 
-|    Class 26       | [Hash Tables]()| 
-|    Class 27       | [Python Docker]()| 
-|    Class 28       | [DRF Permissions]()| 
-|    Class 29       | [JSON Web Tokens]()|
-|    Class 30       | [SSH Tutorial]()| 
-|    Class 31       | [Graphs]()| 
-|    Class 32       | [Whiteboard Interview]()| 
-|    Class 33       | [React]()| 
-|    Class 34       | [React2]()| 
-|    Class 35       | [React3]()| 
-|    Class 36       | [Ethics]()| 
-|    Class 37       | [Pythonisms]()| 
-|    Class 38       | [NextJS Deployment]()|
+|    Class 10       | [Stacks and Queues](https://omarxzain.github.io/401-reading-notes/read10)| 
+|    Class 11       | [Curses](https://omarxzain.github.io/401-reading-notes/read11)| 
+|    Class 12       | [Snake Game](https://omarxzain.github.io/401-reading-notes/read12)| 
+|    Class 13       | [Data Analysis](https://omarxzain.github.io/401-reading-notes/read13)| 
+|    Class 14       | [Panda](https://omarxzain.github.io/401-reading-notes/read14)| 
+|    Class 15       | [Linear Regression in Python with Scikit-Learn](https://omarxzain.github.io/401-reading-notes/read15)| 
+|    Class 16       | [Matplotlib tutorial](https://omarxzain.github.io/401-reading-notes/read16)| 
+|    Class 17       | [Trees](https://omarxzain.github.io/401-reading-notes/read17)| 
+|    Class 18      | [Machine Learning](https://omarxzain.github.io/401-reading-notes/read18)| 
+|    Class 19       | [Web Scraping](https://omarxzain.github.io/401-reading-notes/read19)| 
+|    Class 20       | [Cryptography](https://omarxzain.github.io/401-reading-notes/read20)| 
+|    Class 21       | [Regular Expression](https://omarxzain.github.io/401-reading-notes/read21)| 
+|    Class 22       | [Intro to Django](https://omarxzain.github.io/401-reading-notes/read22)| 
+|    Class 23       | [Django Models](https://omarxzain.github.io/401-reading-notes/read23)|
+|    Class 24       | [Django CRUD and Forms](https://omarxzain.github.io/401-reading-notes/read24)| 
+|    Class 25       | [Django Custom User](https://omarxzain.github.io/401-reading-notes/read25)| 
+|    Class 26       | [Hash Tables](https://omarxzain.github.io/401-reading-notes/read26)| 
+|    Class 27       | [Python Docker](https://omarxzain.github.io/401-reading-notes/read27)| 
+|    Class 28       | [DRF Permissions](https://omarxzain.github.io/401-reading-notes/read28)| 
+|    Class 29       | [JSON Web Tokens](https://omarxzain.github.io/401-reading-notes/read29)|
+|    Class 30       | [SSH Tutorial](https://omarxzain.github.io/401-reading-notes/read30)| 
+|    Class 31       | [Graphs](https://omarxzain.github.io/401-reading-notes/read31)| 
+|    Class 32       | [Whiteboard Interview](https://omarxzain.github.io/401-reading-notes/read32)| 
+|    Class 33       | [React](https://omarxzain.github.io/401-reading-notes/read33)| 
+|    Class 34       | [React2](https://omarxzain.github.io/401-reading-notes/read34)| 
+|    Class 35       | [React3](https://omarxzain.github.io/401-reading-notes/read36)| 
+|    Class 36       | [Ethics](https://omarxzain.github.io/401-reading-notes/read36)| 
+|    Class 37       | [Pythonisms](https://omarxzain.github.io/401-reading-notes/read37)| 
+|    Class 38       | [NextJS Deployment](https://omarxzain.github.io/401-reading-notes/read38)|
 |    Class 39       | []()| 
 |    Class 40       | []()| 
 |    Class 41       | []()| 
