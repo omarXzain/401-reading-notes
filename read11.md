@@ -54,8 +54,8 @@ wines = np.array(wines[1:], dtype=np.float)
 wines = np.genfromtxt("winequality-red.csv", delimiter=";", skip_header=1)
 ```
 
-                                                          Thanks For Reading 
---------------------------------------------------------------------
+-                                                          Thanks For Reading 
+- --------------------------------------------------------------------
 
 
 [Table Of Content](https://github.com/omarXzain/401-reading-notes)
