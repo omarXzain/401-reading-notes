@@ -19,14 +19,14 @@
 |    Class 8        | [List Comprehensions in Python](https://omarxzain.github.io/401-reading-notes/read8)|
 |    Class 9       | [Dunder Methods](https://omarxzain.github.io/401-reading-notes/read9)|
 |    Class 10       | [Stacks and Queues](https://omarxzain.github.io/401-reading-notes/read10)| 
-|    Class 11       | [Curses](https://omarxzain.github.io/401-reading-notes/read11)| 
+|    Class 11       | [Jupyter & Numpy](https://omarxzain.github.io/401-reading-notes/read11)| 
 |    Class 12       | [Snake Game](https://omarxzain.github.io/401-reading-notes/read12)| 
 |    Class 13       | [Data Analysis](https://omarxzain.github.io/401-reading-notes/read13)| 
 |    Class 14       | [Panda](https://omarxzain.github.io/401-reading-notes/read14)| 
 |    Class 15       | [Linear Regression in Python with Scikit-Learn](https://omarxzain.github.io/401-reading-notes/read15)| 
 |    Class 16       | [Matplotlib tutorial](https://omarxzain.github.io/401-reading-notes/read16)| 
 |    Class 17       | [Trees](https://omarxzain.github.io/401-reading-notes/read17)| 
-|    Class 18      | [Machine Learning](https://omarxzain.github.io/401-reading-notes/read18)| 
+|    Class 18   v   | [Machine Learning](https://omarxzain.github.io/401-reading-notes/read18)| 
 |    Class 19       | [Web Scraping](https://omarxzain.github.io/401-reading-notes/read19)| 
 |    Class 20       | [Cryptography](https://omarxzain.github.io/401-reading-notes/read20)| 
 |    Class 21       | [Regular Expression](https://omarxzain.github.io/401-reading-notes/read21)| 
