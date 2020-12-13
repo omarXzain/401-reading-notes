@@ -68,6 +68,22 @@ df.max() | Returns the highest value in each column
 
 df.min() | Returns the lowest value in each column
 
+### Plotting
+- We use the standard convention for referencing the matplotlib API:
+
+```
+In [131]: import matplotlib.pyplot as plt
+
+In [132]: plt.close('all')
+In [133]: ts = pd.Series(np.random.randn(1000),
+   .....:                index=pd.date_range('1/1/2000', periods=1000))
+   .....: 
+
+In [134]: ts = ts.cumsum()
+
+In [135]: ts.plot()
+Out[135]: <AxesSubplot:>
+```
 
 -----------------------------------------------------------------------------------------
 
