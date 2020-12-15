@@ -21,9 +21,9 @@
 |    Class 10       | [Stacks and Queues](https://omarxzain.github.io/401-reading-notes/read10)| 
 |    Class 11       | [Jupyter & Numpy](https://omarxzain.github.io/401-reading-notes/read11)| 
 |    Class 12       | [Pandas](https://omarxzain.github.io/401-reading-notes/read12)| 
-|    Class 13       | [Data Analysis](https://omarxzain.github.io/401-reading-notes/read13)| 
-|    Class 14       | [Snake Game](https://omarxzain.github.io/401-reading-notes/read14)| 
-|    Class 15       | [Linear Regression in Python with Scikit-Learn](https://omarxzain.github.io/401-reading-notes/read15)| 
+|    Class 13       | [Linear Regression](https://omarxzain.github.io/401-reading-notes/read13)| 
+|    Class 14       | [Data Analysis](https://omarxzain.github.io/401-reading-notes/read14)| 
+|    Class 15       | [ Snake Gamein Python with Scikit-Learn](https://omarxzain.github.io/401-reading-notes/read15)| 
 |    Class 16       | [Matplotlib tutorial](https://omarxzain.github.io/401-reading-notes/read16)| 
 |    Class 17       | [Trees](https://omarxzain.github.io/401-reading-notes/read17)| 
 |    Class 18   v   | [Machine Learning](https://omarxzain.github.io/401-reading-notes/read18)| 
