@@ -34,7 +34,7 @@ Here is how we would change our Binary Tree example into a Binary Search Tree:
 - The Big O time complexity of a Binary Search Tree’s insertion and search operations is O(h), or O(height). In the worst case, we will have to search all the way down to a leaf, which will require searching through as many nodes as the tree is tall. In a balanced (or “perfect”) tree, the height of the tree is log(n). In an unbalanced tree, the worst case height of the tree is n.
 
 
-<img src="https://static1.squarespace.com/static/506e28cee4b04973cff61716/t/5192688ce4b011d27a007c75/1368549518511/B+Tree+and+Binary+Tree+Data+Structures.jpg?format=1500w" width="900px" height="400px">
+<img src="https://static1.squarespace.com/static/506e28cee4b04973cff61716/t/5192688ce4b011d27a007c75/1368549518511/B+Tree+and+Binary+Tree+Data+Structures.jpg?format=1500w" width="700px" height="400px">
 
 ---------------------------------------------------
 
