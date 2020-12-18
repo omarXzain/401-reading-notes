@@ -89,3 +89,7 @@ If you evaluate your model on the same data you used to train it, your model cou
 1) Model parameters : Model parameters are learned attributes that define individual models.
 2) Hyperparameters: Hyperparameters express "higher-level" structural settings for algorithms.
 ---------------------------------------------
+
+
+
+[Table Of Content](https://github.com/omarXzain/401-reading-notes)
