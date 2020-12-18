@@ -17,9 +17,8 @@
 
 - Features - Variables (columns) in the dataset used to train the model.
 
-- Target variable - A specific variable you're trying to predict.
+![](https://www.igmguru.com/uploads/products/machine-learning-training-igmguru_1499895199_xl.jpg)
 
-- Observations - Data points (rows) in the dataset.
 ------------------------------------
 ## Exploratory Analysis
 - This step should not be confused with data visualization or summary statistics. Those are merely tools... means to an end, Proper exploratory analysis is about answering questions. It's about extracting enough insights from your dataset to course correct before you get lost in the weeds.
