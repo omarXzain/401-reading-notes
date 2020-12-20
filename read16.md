@@ -36,11 +36,9 @@ Remove Unwanted observations from datasets : This includes duplicate or irreleva
 
 1) Fix Structural Errors : Structural errors are those that arise during measurement, data transfer, or other types of "poor housekeeping."For instance, you can check for typos or inconsistent capitalization. This is mostly a concern for categorical features, and you can look at your bar plots to check.
 
-2) Fix Structural Errors : Structural errors are those that arise during measurement, data transfer, or other types of "poor housekeeping."For instance, you can check for typos or inconsistent capitalization. This is mostly a concern for categorical features, and you can look at your bar plots to check.
+2) Filter Unwanted Outliers : Outliers can cause problems with certain types of models. For example, linear regression models are less robust to outliers than decision tree models.In general, if you have a legitimate reason to remove an outlier, it will help your model’s performance.However, outliers are innocent until proven guilty. You should never remove an outlier just because it’s a "big number." That big number could be very informative for your model.
 
-3) Filter Unwanted Outliers : Outliers can cause problems with certain types of models. For example, linear regression models are less robust to outliers than decision tree models.In general, if you have a legitimate reason to remove an outlier, it will help your model’s performance.However, outliers are innocent until proven guilty. You should never remove an outlier just because it’s a "big number." That big number could be very informative for your model.
-
-4) Handle Missing Data : Missing data is a deceptively tricky issue in applied machine learning.First, just to be clear, you cannot simply ignore missing values in your dataset. You must handle them in some way for the very practical reason that most algorithms do not accept missing values.
+3) Handle Missing Data : Missing data is a deceptively tricky issue in applied machine learning.First, just to be clear, you cannot simply ignore missing values in your dataset. You must handle them in some way for the very practical reason that most algorithms do not accept missing values.
 
 ![](https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/02/DG_Data_Cleansing_Cycle_300px.png)
 
