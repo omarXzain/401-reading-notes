@@ -3,12 +3,12 @@
 - example
 - how to automate downloading hundreds of files from the New York MTA. This is a great exercise for web scraping beginners who are looking to understand how to web scrape. Web scraping can be slightly intimidating, so this tutorial will break down the process of how to go about the process.
 
-## nspecting the Website
+## Inspecting the Website
 The first thing that we need to do is to figure out where we can locate the links to the files we want to download inside the multiple levels of HTML tags. Simply put, there is a lot of code on a website page and we want to find the relevant pieces of code that contains our data.
 
 ![](https://lh3.googleusercontent.com/proxy/oSotU54ss6s4C1CzJ36JRRrGcne6j-KRda-KQd07j2VNiZ9-njT2XkI1u6jZg3GG2LPsWcpOVc7kRwpaK9BpOQV8rCVLVrXC3RyFgO1ntA-SVgIWwsB4iXeBBM0HUGNPSkqf3YQJsfcioX1UKG3Qz4KP27cMBZjzDCw03WFmBP8OkYmgsvc)
 
-#### We start by importing the following libraries. 
+- We start by importing the following libraries. 
 
 ```
 import requests
