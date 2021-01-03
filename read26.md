@@ -2,7 +2,7 @@
 - Django is a high-level Python web framework that enables rapid development of secure and maintainable websites
 - With Django, you can take Web applications from concept to launch in a matter of hours. Django takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
-![](https://freecoursesite.us/wp-content/uploads/2019/07/Python-and-Django-Full-Stack-Web-Developer-Bootcamp-Course.jpg)
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/148539243/original/1e851d0838d750357906c41b58eadf2f3b6364ec/make-your-python-django-project-with-postgresql.jpg" width="900px" height="400px">
 
 ## Installing an official release with pip
 This is the recommended way to install Django.
