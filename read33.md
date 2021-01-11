@@ -28,3 +28,6 @@ As JSON is less verbose than XML, when it is encoded its size is also smaller, m
 ## DRF JWT Authentication
 How to Use JWT Authentication with Django REST Framework
 JWT stand for JSON Web Token and it is an authentication strategy used by client/server applications where the client is a Web application using JavaScript and some frontend framework like Angular, React or VueJS.
+
+---------------------------------------------------------------
+[Table Of Content](https://github.com/omarXzain/401-reading-notes)
