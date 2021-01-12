@@ -24,7 +24,7 @@ As the name suggests, the collection consists of twelve parts:
 7) Port binding
 8) Concurrency
 9) Disposability
-10 Dev/prod parity
+10) Dev/prod parity
 11) Logs
 12) Admin processes
 
@@ -49,3 +49,6 @@ Give meaningful names to your settings.
 - When you hit enter, you will be prompted to enter the password for the requested account. When you type it in, nothing will appear on the screen, but your password is, in fact being transmitted. Once you’re done typing, hit enter once again. If your password is correct, you will be greeted with a remote terminal window.
 
 - Gaining an in-depth understanding of the underlying how SSH works can help users understand the security aspects of this technology. Most people consider this process to be extremely complex and un-understandable, but it is much simpler than most people think. If you’re wondering how long it takes for a computer to calculate a hash and authenticate a user, well, it happens in less than a second. In fact, the maximum amount of time is spent in transferring data across the Internet
+------------------------------------------------
+
+[Table Of Content](https://github.com/omarXzain/401-reading-notes)
