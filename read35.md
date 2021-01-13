@@ -26,7 +26,8 @@ In a breadth first traversal, you are starting at a specific vertex/node. This n
 ## Depth First
 In a depth first traversal, we approach it a bit different than the way we do when working with a depth first traversal of a tree. Similar to how the breadth-first uses a queue, we are going to use a Stack for our depth-first traversal.
 
-![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/Depth1.PNG)
+
+<img src="https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/Depth1.PNG" width="800px" height="400px">
 
 ## The algorithm for a depth first traversal is as follows:
 
