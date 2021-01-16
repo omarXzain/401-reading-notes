@@ -41,3 +41,6 @@ This is free and you should take advantage of it. Simply ask if there are any te
 
 
 - Again, you don’t actually want to start writing code in an actual language. You’ll find yourself constrained by trying to remember the methods or other idiosyncrasies of the language rather than trying to come up with the correct logic. Instead, let your interviewer know you’re going to start by writing pseudocode and fill in the actual code later. (Coincidentally, this is a reasonable way to write actual code as well).
+
+-------------------------------------------------------------------
+[Table Of Content](https://github.com/omarXzain/401-reading-notes)
