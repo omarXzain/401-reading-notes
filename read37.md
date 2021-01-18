@@ -33,9 +33,9 @@ Components let you split the UI into independent, reusable pieces, and think abo
 
 ## Function and Class Components
 The simplest way to define a component is to write a JavaScript function:
-
+```
 function Welcome(props) { return <h1>Hello, {props.name}</h1>; }
-
+```
 ## Composing Components
 Components can refer to other components in their output. This lets us use the same component abstraction for any level of detail. A button, a form, a dialog, a screen: in React apps, all those are commonly expressed as components.
 -------------------------------------------------------------
