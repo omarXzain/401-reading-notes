@@ -32,3 +32,6 @@ Parse each markdown file and get title, date, and file name (which will be used 
 List the data on the index page, sorted by date.
 To do this on pre-render, we need to implement getStaticProps.
 
+--------------------------------------------
+
+[Table Of Content](https://github.com/omarXzain/401-reading-notes)
